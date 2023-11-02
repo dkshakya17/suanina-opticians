@@ -31,15 +31,15 @@ const Footer = () => (
           <p className="font-lulo mb-10">Contact</p>
           <div className="text-sm tracking-wide sm:mb-5">
             <p>
-              <span>500 Terry Francois Street</span>
+              <span>No.286, Sampige Road, </span>
             </p>
 
             <p>
-              <span>San Francisco, CA 94158</span>
+              <span> Malleswaram, Bangalore - 560003</span>
             </p>
 
             <p>
-              <span>​​</span>
+              <span>​(Near Near Vodafone Store)​</span>
             </p>
 
             <p>
@@ -66,7 +66,7 @@ const Footer = () => (
             <ul aria-label="Social Bar" className="flex gap-4">
               <li>
                 <a
-                  href="http://www.facebook.com/wix"
+                  href="https://www.facebook.com/sunainaoptics/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -94,7 +94,7 @@ const Footer = () => (
               </li>
               <li>
                 <a
-                  href="https://instagram.com/wix/"
+                  href="https://www.instagram.com/sunaina_opticians/"
                   target="_blank"
                   rel="noreferrer"
                 >
