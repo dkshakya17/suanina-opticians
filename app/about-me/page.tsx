@@ -34,11 +34,12 @@ export default function AboutMePage() {
           </div>
           <section className="min-h-max mx-5">
             <p className="text-sm flex-1 leading-7 sm:w-[calc(100%-319px)] sm:pt-24 pt-48">
-              My name is SUNAINA OPTICIAN and I am a personal coach. My goal is to
-              assist people identify and overcome obstacles in their lives and
-              to maximize their potential. Through my coaching, I help people
-              set goals, build the confidence and skills they need to achieve
-              success and develop a positive mindset and a sense of self-worth.
+              My name is SUNAINA OPTICIAN and I am a personal coach. My goal is
+              to assist people identify and overcome obstacles in their lives
+              and to maximize their potential. Through my coaching, I help
+              people set goals, build the confidence and skills they need to
+              achieve success and develop a positive mindset and a sense of
+              self-worth.
             </p>
             <p>&nbsp;</p>
             <p className="text-sm flex-1 leading-7">
